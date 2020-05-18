@@ -1,0 +1,22 @@
+slack          : 
+moodle         : 
+youtube        : 
+parent         : 
+credits        : J. Fitzgerald
+auth           :  
+ignorepin      :  
+ignore : 
+ # - topic---assignments
+ - topic-00-overview
+ # - topic-01-introducing-html
+ # - topic-02-introducing-css
+ # - topic-03-box-model
+ # - topic-04-navigation
+ # - topic-05-templating
+ # - topic-06-semantic-code
+ # - topic-07-starting-play
+ # - topic-08-introducing-mvc
+ # - topic-09-models
+ # - topic-10-forms
+ # - topic-11-sessions
+ # - topic-12-deployment
